@@ -1,0 +1,27 @@
+{
+  "name": "socket.io-cookie",
+  "version": "0.0.0",
+  "description": "Cookie parser for socket.io >= 1.0 version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ivpusic/socket.io-cookie.git"
+  },
+  "keywords": [
+    "socket.io",
+    "socket",
+    "io",
+    "cookie",
+    "parser",
+    "parsing"
+  ],
+  "author": "Ivan Pusic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivpusic/socket.io-cookie/issues"
+  },
+  "homepage": "https://github.com/ivpusic/socket.io-cookie"
+}
