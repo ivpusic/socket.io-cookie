@@ -1,7 +1,7 @@
 socket.io-cookie
 ================
 
-Cookie parser middleware for socket.io >= 1.0 version
+Cookie parser middleware for socket.io
 
 ### Example
 

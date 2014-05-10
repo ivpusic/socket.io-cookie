@@ -1,7 +1,7 @@
 {
   "name": "socket.io-cookie",
   "version": "0.0.0",
-  "description": "Cookie parser for socket.io >= 1.0 version",
+  "description": "Cookie parser middleware for socket.io",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ivpusic/socket.io-cookie/issues"
   },
-  "homepage": "https://github.com/ivpusic/socket.io-cookie"
+  "homepage": "https://github.com/ivpusic/socket.io-cookie",
+  "dependencies": {
+    "cookie": "^0.1.2"
+  }
 }
